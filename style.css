@@ -1,0 +1,38 @@
+
+html{
+  background-color: black;
+  color: white
+}
+
+.meme-shell {
+  padding-left:20%;
+  padding-right:20%;
+  margin-top:2rem;
+}
+
+.meme-img {
+  width: 100%;
+  border: 5px, solid, white
+}
+
+
+.bottom-padding {
+  padding-bottom: 0.5rem;
+}
+
+.img-wrapper {
+  padding-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  line-height: auto;
+  font-size: 2.5rem;
+  font-family: "Libre Baskerville",serif;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: center;
+  font-size: 1rem;
+}
